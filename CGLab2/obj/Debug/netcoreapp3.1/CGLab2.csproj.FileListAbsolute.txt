@@ -1,0 +1,11 @@
+C:\Users\Dixon\source\repos\CGLab2\CGLab2\bin\Debug\netcoreapp3.1\CGLab2.exe
+C:\Users\Dixon\source\repos\CGLab2\CGLab2\bin\Debug\netcoreapp3.1\CGLab2.deps.json
+C:\Users\Dixon\source\repos\CGLab2\CGLab2\bin\Debug\netcoreapp3.1\CGLab2.runtimeconfig.json
+C:\Users\Dixon\source\repos\CGLab2\CGLab2\bin\Debug\netcoreapp3.1\CGLab2.runtimeconfig.dev.json
+C:\Users\Dixon\source\repos\CGLab2\CGLab2\bin\Debug\netcoreapp3.1\CGLab2.dll
+C:\Users\Dixon\source\repos\CGLab2\CGLab2\bin\Debug\netcoreapp3.1\CGLab2.pdb
+C:\Users\Dixon\source\repos\CGLab2\CGLab2\obj\Debug\netcoreapp3.1\CGLab2.csprojAssemblyReference.cache
+C:\Users\Dixon\source\repos\CGLab2\CGLab2\obj\Debug\netcoreapp3.1\CGLab2.AssemblyInfoInputs.cache
+C:\Users\Dixon\source\repos\CGLab2\CGLab2\obj\Debug\netcoreapp3.1\CGLab2.AssemblyInfo.cs
+C:\Users\Dixon\source\repos\CGLab2\CGLab2\obj\Debug\netcoreapp3.1\CGLab2.dll
+C:\Users\Dixon\source\repos\CGLab2\CGLab2\obj\Debug\netcoreapp3.1\CGLab2.pdb
